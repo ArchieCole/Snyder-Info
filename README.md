@@ -2,7 +2,7 @@
 
 Snyder is a versatile Discord bot designed to enhance your server experience. Packed with a wide range of features, Snyder is here to make your Discord interactions seamless and enjoyable. Whether you're a server owner, moderator, or community member, Snyder has something for everyone.
 
-Key Features:
+## Key Features:
 
 Moderation Tools: Keep your server in check with powerful moderation commands to manage users, messages, and more.
 
