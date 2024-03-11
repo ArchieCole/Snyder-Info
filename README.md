@@ -1,4 +1,29 @@
-# Terms of Service for Snyder
+# Snyder
+
+Snyder is a versatile Discord bot designed to enhance your server experience. Packed with a wide range of features, Snyder is here to make your Discord interactions seamless and enjoyable. Whether you're a server owner, moderator, or community member, Snyder has something for everyone.
+
+Key Features:
+
+Moderation Tools: Keep your server in check with powerful moderation commands to manage users, messages, and more.
+
+Entertainment: Spice up your server with fun commands, games, and interactive features to keep everyone engaged.
+
+Information at Your Fingertips: Quickly access server and user information and other handy utilities.
+
+Reliable Performance: Snyder is built with stability in mind, ensuring a smooth experience for all users.
+
+## Getting Started:
+
+Invite Snyder to your server with a few simple clicks.
+Go through the bots modules using the /modules command to enable or disable features.
+Explore a plethora of commands to enhance your Discord experience.
+Join countless servers already benefiting from Snyder's capabilities. Elevate your Discord game with Snyder - your trusted companion in the world of online communities!
+
+Visit our [Discord Support Server](https://discord.gg/ks6eV6rt3s) for more information and updates.
+
+
+
+# Terms of Service
 
 Effective Date: 11/03/2024
 
