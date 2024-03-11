@@ -65,23 +65,55 @@ By using the Snyder Discord Bot, you acknowledge that you have read, understood,
 
 
 
-# Privacy Notice
+# Privacy Policy
+Effective Date: 11/03/2024
 
 This Privacy Notice outlines the types of personal information collected by the Bot, how that information is used, and the measures taken to protect user privacy.
 
-## 1. Data Collection
+## 1. Data Collection:
 
 The Bot may collect and store user data necessary for its functionality, including but not limited to:
-- Discord User IDs
-- Server IDs
-- Message Content for Command Processing
+Discord User IDs
+Server IDs
+Message Content for Command Processing
 
-## 2. Usage of Collected Data
+...
+
+## 2. Usage of Collected Data:
 
 The collected data is used solely for the purpose of providing the Bot's functionalities, including responding to commands and interacting with users within Discord servers.
 
 ...
 
-## 8. Contact
+## 3. Data Retention:
+
+The collected data is retained only for the duration necessary to fulfill the purposes outlined in this privacy policy. The Bot does not store user data for an extended period.
+
+## 4. Data Security:
+
+The developer takes reasonable measures to protect user data against unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet or electronic storage is entirely secure, and absolute security cannot be guaranteed.
+
+...
+
+## 5. Third-Party Services:
+
+The Bot may use third-party services for data processing, such as hosting services and analytics tools. Users are encouraged to review the privacy policies of these third-party services.
+
+...
+
+## 6. Children's Privacy:
+
+The Bot is not intended for individuals under the age of 13. The developer does not knowingly collect personal information from children under this age. If you believe that we have collected personal information from a child under 13, please contact us immediately.
+
+...
+
+## 7. Changes to Privacy Policy:
+
+The developer reserves the right to update or modify this privacy policy at any time. Users will be notified of any significant changes. Continued use of the Bot after changes to the privacy policy implies acceptance of the updated terms.
+
+...
+
+## 8. Contact:
 
 For inquiries or concerns related to privacy or this privacy policy, please contact SnyderDevTeam@gmail.com.
+By using the Snyder Discord Bot, you acknowledge that you have read, understood, and agree to the terms outlined in this privacy policy.
